@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="root" fx:id="root2" prefHeight="445.00010681152344" prefWidth="689.0000999999975" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gamehound.searchOneController">
+  <children>
+    <Label layoutX="36.0" layoutY="108.0" prefHeight="165.0" prefWidth="199.0" text="First things first, &#10;how about you tell &#10;us some of your &#10;favorite genres of &#10;games?">
+      <font>
+        <Font size="20.0" />
+      </font>
+    </Label>
+    <CheckBox fx:id="action" layoutX="300.0" layoutY="62.0" mnemonicParsing="false" onAction="#actionPressed" text="Action" />
+    <CheckBox fx:id="adventure" layoutX="428.0" layoutY="62.0" mnemonicParsing="false" onAction="#adventurePressed" text="Adventure" />
+    <CheckBox fx:id="strategy" layoutX="300.0" layoutY="98.0" mnemonicParsing="false" onAction="#strategyPressed" text="Strategy" />
+    <CheckBox fx:id="rpg" layoutX="428.0" layoutY="98.0" mnemonicParsing="false" onAction="#rpgPressed" text="RPG" />
+    <CheckBox fx:id="shooter" layoutX="300.0" layoutY="133.0" mnemonicParsing="false" onAction="#shooterPressed" text="Shooter" />
+    <CheckBox fx:id="puzzle" layoutX="428.0" layoutY="133.0" mnemonicParsing="false" onAction="#puzzlePressed" text="Puzzle" />
+    <CheckBox fx:id="sports" layoutX="300.0" layoutY="171.0" mnemonicParsing="false" onAction="#sportsPressed" text="Sports" />
+    <Button fx:id="buttom" defaultButton="true" layoutX="480.0" layoutY="288.0" mnemonicParsing="false" onAction="#buttonPressed" prefHeight="81.0" prefWidth="153.0" text="Next">
+      <font>
+        <Font size="30.0" />
+      </font>
+    </Button>
+    <ImageView fitHeight="187.82607656804132" fitWidth="323.9999694824219" layoutX="104.0" layoutY="254.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dog2.png" />
+      </image>
+    </ImageView>
+  </children>
+</AnchorPane>

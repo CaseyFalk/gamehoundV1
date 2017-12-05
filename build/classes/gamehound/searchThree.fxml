@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="root" fx:id="root4" prefHeight="445.0" prefWidth="689.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"  fx:controller="gamehound.SearchThreeController">
+  <children>
+    <Label layoutX="40.0" layoutY="38.0" prefHeight="168.0" prefWidth="226.0" text="Do you prefer single &#10;player, multiplayer, &#10;or both/no preference?">
+      <font>
+        <Font size="20.0" />
+      </font>
+    </Label>
+    <CheckBox id="SP" fx:id="SP" layoutX="400.0" layoutY="86.0" mnemonicParsing="false" onAction="#SPPressed" text="Single Player" />
+    <CheckBox id="MP" fx:id="MP" layoutX="400.0" layoutY="122.0" mnemonicParsing="false" onAction="#MPPressed" text="Multiplayer" />
+    <CheckBox id="both" fx:id="both" layoutX="400.0" layoutY="159.0" mnemonicParsing="false" onAction="#bothPressed" text="Both/No Preference" />
+    <Button fx:id="button" defaultButton="true" layoutX="480.0" layoutY="288.0" mnemonicParsing="false" onAction="#buttonPressed" prefHeight="81.0" prefWidth="153.0" text="Next">
+      <font>
+        <Font size="30.0" />
+      </font>
+    </Button>
+    <ImageView fitHeight="187.82607656804132" fitWidth="323.9999694824219" layoutX="104.0" layoutY="254.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dog2.png" />
+      </image>
+    </ImageView>
+  </children>
+</AnchorPane>

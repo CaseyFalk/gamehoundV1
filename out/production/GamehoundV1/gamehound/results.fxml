@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="480.0" prefWidth="647.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="gamehound.resultsController">
+  <children>
+    <Label layoutX="243.0" layoutY="38.0" text="We're done!">
+      <font>
+        <Font size="30.0" />
+      </font>
+    </Label>
+    <Label layoutX="36.0" layoutY="117.0" prefHeight="186.0" prefWidth="221.0" text="Here's some games we&#10;think you might like...">
+      <font>
+        <Font size="20.0" />
+      </font>
+    </Label>
+    <ListView fx:id="gameList" disable="false" editable="false" layoutX="289.0" layoutY="117.0" orientation="VERTICAL" prefHeight="282.0" prefWidth="260.0" />
+    <ImageView fitHeight="222.0" fitWidth="271.95000000000005" layoutX="14.0" layoutY="258.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dog3.png" />
+      </image>
+    </ImageView>
+  </children>
+</AnchorPane>
