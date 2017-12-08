@@ -14,10 +14,11 @@ import java.util.ResourceBundle;
 public class resultsController implements Initializable {
 
     ObservableList<String> list = getGamesList.getGamesList();
+    saveGames save = new saveGames();
+    String savedList = "";
 
     //Compare the arrays of elements gathered from the quiz to the array of games
     //to determine which games fit the user's criteria.
-    //for(int i = 0; i < Main.gamesList.length())
 
     @FXML
     private ListView<String> gameList;
@@ -27,9 +28,15 @@ public class resultsController implements Initializable {
 
     public void initialize(URL location, ResourceBundle resources){
 
-
-
         gameList.setItems(list);
+
+        //turn the list into a string so it can be saved
+        for(String element : list){
+            savedList = savedList + element + " |";
+        }
+        save.setPrefs(savedList);
+        System.out.println(savedList);
+
     }
 
 }

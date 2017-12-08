@@ -7,7 +7,6 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.*;
-import java.nio.charset.Charset;
 
 public class Main extends Application {
 

@@ -64,31 +64,31 @@ public class searchTwoController {
 
 
         if (ps3.isSelected()) {
-            gameConsole.add("Playstation 3");
+            gameConsole.add("ps3");
         }
 
         if (ps4.isSelected()) {
-            gameConsole.add("Playstation 4");
+            gameConsole.add("ps4");
         }
 
         if (xb360.isSelected()) {
-            gameConsole.add("Xbox 360");
+            gameConsole.add("xbox 360");
         }
 
         if (ds.isSelected()) {
-            gameConsole.add("Nintendo 3DS");
+            gameConsole.add("nintendo 3ds");
         }
 
         if (xb1.isSelected()) {
-            gameConsole.add("Xbox One");
+            gameConsole.add("xbox one");
         }
 
         if (wiiU.isSelected()) {
-            gameConsole.add("WiiU");
+            gameConsole.add("wiiu");
         }
 
         if (nswitch.isSelected()) {
-            gameConsole.add("Nintendo Switch");
+            gameConsole.add("nintendo switch");
         }
 
         System.out.println(gameConsole);

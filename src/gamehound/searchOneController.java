@@ -71,23 +71,23 @@ public class searchOneController {
         }
 
         if (strategy.isSelected()) {
-            gameGenre.add("Strategy");
+            gameGenre.add("strategy");
         }
 
         if (rpg.isSelected()) {
-            gameGenre.add("RPG");
+            gameGenre.add("rpg");
         }
 
         if (shooter.isSelected()) {
-            gameGenre.add("Wargame");
+            gameGenre.add("shooter");
         }
 
         if (puzzle.isSelected()) {
-            gameGenre.add("Fantasy");
+            gameGenre.add("puzzle");
         }
 
         if (sports.isSelected()) {
-            gameGenre.add("Sports");
+            gameGenre.add("sports");
         }
 
         

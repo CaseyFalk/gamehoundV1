@@ -1,35 +1,575 @@
-Super Mario Sunshine
-Adventure
-Gamecube
-Single Player
-Everyone
-Halo
+Need For Speed: Rivals
+Sports
+Xbox One
+Both
+E10
+Dragonball Xenoverse (2)
 Action
-Xbox
-Multiplayer
-Mature
-Super Smash Bros Melee
-Action
-Gamecube
+Xbox One
 Multiplayer
 Teen
-Fable
-Adventure
-Xbox
+Ark: Survival Evolved
+Action
+Xbox One
+Multiplayer
+Teen
+Assassin's Creed
+Action
+Xbox One
 Single Player
 Mature
-Call of Duty WW2
-Action
-Playstation 4
+Dead Rising
+Adventure
+Xbox One
+Single Player
+Mature
+Middle-Earth: Shadow of War
+Adventure
+Xbox One
+Single Player
+Mature
+Halo Wars
+Strategy
+Xbox One
 Multiplayer
 Mature
-Pokemon (Ultra) Sun/(Ultra) Moon
+Zoo Tycoon
+Strategy
+Xbox One
+Single Player
+Everyone
+XCOM
+Strategy
+Xbox One
+Multiplayer
+Mature
+Fallout 4
 RPG
+Xbox One
+Single Player
+Mature
+South Park: The Fractured But Whole
+RPG
+Xbox One
+Single Player
+Mature
+FIFA
+Sports
+Xbox One
+Multiplayer
+Everyone
+Madden NFL
+Sports
+Xbox One
+Multiplayer
+Everyone
+Call of Duty
+Shooter
+Xbox One
+Multiplayer
+Mature
+Doom
+Shooter
+Xbox One
+Both
+Mature
+Doom
+Shooter
+Xbox One
+Single Player
+Mature
+Wolfenstein 2: The New Colossus
+Shooter
+Xbox One
+Single Player
+Mature
+Minecraft
+Puzzle
+Xbox One
+Multiplayer
+Everyone
+Tetris Ultimate
+Puzzle
+Xbox One
+Both
+Everyone
+Song Of the Deep
+Puzzle
+Xbox One
+Single Player
+Everyone
+Halo 5: Guardians
+Shooter
+Xbox One
+Multiplayer
+Mature
+Mirror's Edge
+Action
+Xbox 360
+Single Player
+Teen
+Marvel: Ultimate Alliance
+Action
+Xbox 360
+Both
+Teen
+Batman: Arkham City 
+Adventure
+Xbox 360
+Single Player
+Teen
+Grand Theft Auto 4/5
+Adventure
+Xbox 360
+Single Player
+Mature
+Grand Theft Auto 4/5
+Adventure
+Xbox 360
+Both
+Mature
+Civilization Revolution
+Strategy
+Xbox 360
+Multiplayer
+Everyone
+Halo Wars
+Strategy
+Xbox 360
+Multiplayer
+Teen
+Elder Scrolls IV: Oblivion
+RPG
+Xbox 360
+Single Player
+Mature
+Mass Effect
+RPG
+Xbox 360
+Single Player
+Mature
+Madden NFL
+Sports
+Xbox 360
+Both
+Everyone
+Forza Motorsport 4
+Sports
+Xbox 360
+Both
+Everyone
+Call of Duty
+Shooter
+Xbox 360
+Multiplayer
+Mature
+Gears of War 3
+Shooter
+Xbox 360
+Both
+Mature
+Body and Brain Connection
+Puzzle
+Xbox 360
+Multiplayer
+Everyone
+Portal (2)
+Puzzle
+Xbox 360
+Single Player
+Everyone
+Halo 3/4 
+Shooter
+Xbox 360
+Both
+Mature
+Dead Rising 2
+Action
+Xbox 360
+Single Player
+Mature
+The Last of Us
+Action
+PS3
+Both
+Mature
+The Last of Us
+Action
+PS3
+Single Player
+Mature
+Red Dead Redemption
+Adventure
+PS3
+Single Player
+Mature
+Red Dead Redemption
+Adventure
+PS3
+Both
+Mature
+Batman: Arkham City
+Adventure
+PS3
+Single Player
+Teen
+L.A. Noire
+Strategy
+PS3
+Single Player
+Mature
+Tom Clancy’s EndWar
+Strategy
+PS3
+Multiplayer
+Teen
+Dragon Age Origins
+RPG
+PS3
+Single Player
+Mature
+The Elder Scrolls V: Skyrim
+RPG
+PS3
+Single Player
+Mature
+NBA 2K
+Sports
+PS3
+Multiplayer
+E10
+Gran Turismo
+Sports
+PS3
+Both
+Everyone
+Hitman: Absolution
+Shooter
+PS3
+Single Player
+Mature
+Destiny
+Shooter
+PS3
+Multiplayer
+Teen
+Super Puzzle Fighter II Turbo HD Remix
+Puzzle
+PS3
+Single Player
+Everyone
+Super Puzzle Fighter II Turbo HD Remix
+Puzzle
+PS3
+Both
+Everyone
+Uncharted
+Action
+PS3
+Single player
+Teen
+Need For Speed: Rivals
+Sports
+PS4
+Both
+E10
+Ratchet and Clank
+Adventure
+PS4
+Single Player
+E10
+Middle-Earth: Shadow of War
+Action
+PS4
+Single Player
+Mature
+Assassin’s Creed Origins
+Action
+PS4
+Single Player
+Mature
+Lego Marvel Super Heroes 2
+Adventure
+PS4
+Both
+Everyone
+Uncharted 4: A Thief’s End
+Adventure
+PS4
+Both
+Teen
+Uncharted 4: A Thief’s End
+Adventure
+PS4
+Single Player
+Teen
+XCOM 2
+Strategy
+PS4
+Multiplayer
+Teen
+Grand Ages Medieval Limited Edition
+Strategy
+PS4
+Single Player
+Teen
+Fallout 4
+RPG
+PS4
+Single Player
+Mature
+South Park: The Fractured But Whole
+RPG
+PS4
+Single Player
+Mature
+WWE 2K series
+Sports
+PS4
+Both
+Teen
+The Hunter: Call of the Wild
+Sports
+PS4
+Single Player
+Teen
+Star Wars Battlefront
+Shooter
+PS4
+Multiplayer
+Teen
+Battlefield
+Shooter
+PS4
+Multiplayer
+Mature
+Song of the Deep
+Puzzle
+PS4
+Single Player
+Everyone
+ArmaGallant: Decks of Destiny
+Puzzle
+PS4
+Multiplayer
+Everyone
+Yoshi’s Wooly World
+Action
+WiiU
+Single Player
+Everyone
+Super Mario Bros U with Super Luigi U
+Adventure
+WiiU
+Both
+Everyone
+Super Mario 3D World
+Adventure
+WiiU
+Both
+Everyone
+Pikmin 3
+Strategy
+WiiU
+Single Player
+Everyone
+Captain Toad: Treasure Tracker
+Strategy
+WiiU
+Single Player
+Everyone
+Tokyo Mirage Sessions
+RPG
+WiiU
+Single Player
+Teen
+Xenoblade Chronicles X
+RPG
+WiiU
+Single Player
+Teen
+Mario Kart 8
+Sports
+WiiU
+Both
+Everyone
+Mario & Sonic at the Sochi 2014 Olympic Winter Games
+Sports
+WiiU
+Both
+Everyone
+James Bond: 007 Legends
+Shooter
+WiiU
+Multiplayer
+Teen
+Splatoon
+Shooter
+WiiU
+Multiplayer
+Everyone
+Wheel of Fortune
+Puzzle
+WiiU
+Multiplayer
+Everyone
+Wii Party U
+Puzzle
+WiiU
+Multiplayer
+Everyone
+Darksiders
+RPG
+WiiU
+Single Player
+Mature
+Super Smash Bros. For Wii U
+Action
+WiiU
+Multiplayer
+E10
+The Legend of Zelda: Wind Waker HD
+Adventure
+WiiU
+Single Player
+E10
+The Legend of Zelda: Twilight Princess
+Adventure
+WiiU
+Single Player
+Teen
+The Legend of Zelda: Breath of the Wild
+Adventure
+WiiU
+Single Player
+E10
+The Wonderful 101
+Action
+WiiU
+Single Player
+Teen
+Super Mario Odyssey
+Action
+Nintendo Switch
+Multiplayer
+Everyone
+The Legend of Zelda: Breath of the Wild
+Adventure
+Nintendo Switch
+Single Player
+E10
+Super BomberMan R
+Strategy
+Nintendo Switch
+Multiplayer
+Everyone
+Stardew Valley
+RPG
+Nintendo Switch
+Single Player
+Everyone
+FIFA
+Sports
+Nintendo Switch
+Multiplayer
+Everyone
+Doom
+Shooter
+Nintendo Switch
+Multiplayer
+Mature
+Puyo Puyo Tetris
+Puzzle
+Nintendo Switch
+Multiplayer
+Everyone
+RBI Baseball 17
+Sports
+Nintendo Switch
+Multiplayer
+Everyone
+The Elder Scrolls V: Skyrim
+RPG
+Nintendo Switch
+Single Player
+Mature
+NBA 2K
+Sports
+Nintendo Switch
+Both
+E10
+NBA 2K
+Sports
+Nintendo Switch
+Single player
+E10
+Fire Emblem Warriors
+RPG
+Nintendo Switch
+Both
+Teen
+Mario Kart 8 Deluxe
+Sports
+Nintendo Switch
+Both
+Everyone
+Ice Station Z
+Action
+Nintendo 3DS
+Multiplayer
+Teen
+Super Mario Bros. Deluxe
+Adventure
+Nintendo 3DS
+Single Player
+Everyone
+Pokemon (Ultra) Sun/Moon
+RPG
+Nintendo 3DS
+Single Player
+Everyone
+Fire Emblem Awakening
+Strategy
+Nintendo 3DS
+Single Player
+Teen
+Super Mario 3D Land
+Adventure
+Nintendo 3DS
+Single Player
+Everyone
+Mario Kart 7
+Sports
 Nintendo 3DS
 Both
 Everyone
-Smackdown Vs. Raw 2007
+Super Smash Bros. for Nintendo 3DS
 Action
-Playstation 2
-Both
-Teen
+Nintendo 3DS
+Multiplayer
+E10
+New Super Mario Bros. 2
+Adventure
+Nintendo 3DS
+Single player
+Everyone
+Star Fox 64 3D
+Shooter
+Nintendo 3DS
+Single player
+E10
+Kid Icarus: Uprising
+Shooter
+Nintendo 3DS
+Single player
+E10
+Castlevania
+Adventure
+Nintendo 3DS
+Single player
+Mature
+The Legend of Zelda: Majora’s Mask
+Adventure
+Nintendo 3DS
+Single Player
+E10

@@ -50,19 +50,19 @@ public class searchFourController {
 
 
         if (everyone.isSelected()) {
-            gameRating.add("Everyone");
+            gameRating.add("everyone");
         }
 
         if (e10.isSelected()) {
-            gameRating.add("E10");
+            gameRating.add("e10");
         }
 
         if (teen.isSelected()) {
-            gameRating.add("Teen");
+            gameRating.add("teen");
         }
 
         if (mature.isSelected()) {
-            gameRating.add("Mature");
+            gameRating.add("mature");
         }
 
         

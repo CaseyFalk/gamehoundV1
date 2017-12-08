@@ -19,6 +19,9 @@ public class getGamesList{
         //for example, if each game in our program has a title, a genre, and a console associated
         //with it, then it has 3 elements.
         int numElements = 5;
+
+        //number of games added for debugging purposes
+        int gamesAdded = 0;
         //the location of the text file containing the list of games
         String gamelist = "src/gamelist.txt";
 
@@ -97,27 +100,34 @@ public class getGamesList{
 
             //gameGenre
             for(int i = 0; i < searchOneController.gameGenre.size(); i++){
-            System.out.println(gamesList[column][1]);
-                if(gamesList[column][1].equals(searchOneController.gameGenre.get(i))){
+                System.out.println(column+1);
+                System.out.println(gamesList[column][1]);
+
+                if(gamesList[column][1].toLowerCase().equals(searchOneController.gameGenre.get(i))){
 
                     //gameConsole
-                    for(i = 0; i < searchTwoController.gameConsole.size(); i++){
+                    for(int j = 0; j < searchTwoController.gameConsole.size(); j++){
+                        System.out.println(column+1);
                         System.out.println(gamesList[column][2]);
 
-                        if(gamesList[column][2].equals(searchTwoController.gameConsole.get(i))){ 
+                        if(gamesList[column][2].toLowerCase().equals(searchTwoController.gameConsole.get(j))){
                             //where I started to add things in>>
-                            for(i = 0; i < SearchThreeController.gamePlayers.size(); i++){
+                            for(int k = 0; k < SearchThreeController.gamePlayers.size(); k++){
+                                System.out.println(column+1);
                                 System.out.println(gamesList[column][3]);
 
-                                if(gamesList[column][3].equals(SearchThreeController.gamePlayers.get(i))){
+                                if(gamesList[column][3].toLowerCase().equals(SearchThreeController.gamePlayers.get(k))){
                                                               
-                                    for(i = 0; i < searchFourController.gameRating.size(); i++){
+                                    for(int l = 0; l < searchFourController.gameRating.size(); l++){
+                                        System.out.println(column+1);
                                         System.out.println(gamesList[column][4]);
 
 
-                                        if(gamesList[column][4].equals(searchFourController.gameRating.get(i))){
+                                        if(gamesList[column][4].toLowerCase().equals(searchFourController.gameRating.get(l))){
                                                                               
                                             chosenGames.add(gamesList[column][0]);
+                                            gamesAdded += 1;
+                                            System.out.println(gamesAdded);
                                         }
                                     }
                                 }

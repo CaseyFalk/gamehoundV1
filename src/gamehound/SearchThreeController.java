@@ -43,15 +43,15 @@ public class SearchThreeController {
     {
 
         if (SP.isSelected()) {
-            gamePlayers.add("Single Player");
+            gamePlayers.add("single player");
         }
 
         if (MP.isSelected()) {
-            gamePlayers.add("Multiplayer");
+            gamePlayers.add("multiplayer");
         }
 
         if (both.isSelected()) {
-            gamePlayers.add("Both");
+            gamePlayers.add("both");
         }
 
 
