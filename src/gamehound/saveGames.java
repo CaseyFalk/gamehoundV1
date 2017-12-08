@@ -11,7 +11,6 @@ public class saveGames {
     String ID = "Saved Games";
     private String[] list;
     ObservableList<String> returnedList = FXCollections.observableArrayList();
-    ;
 
     public void setPrefs(String games){
         prefs = Preferences.userRoot().node(this.getClass().getName());
