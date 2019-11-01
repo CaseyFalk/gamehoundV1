@@ -94,8 +94,8 @@ public class getGamesList{
         ObservableList<String> chosenGames = FXCollections.observableArrayList();
 
         //**Remember, [games][elements].**
-        //A horrible and messy way of getting the games based on the quiz results.
-        //Basically just a terrible nesting disaster of for loops for every element being checked.
+        //Getting the games based on quiz results. Not the more efficient way to do this,
+        //and I would definitely do this differently in retrospect.
         for(column = 0; column < gamesList.length; column++){
 
             //gameGenre
